@@ -5,6 +5,8 @@
   -Fixed-point iteration method: https://en.wikipedia.org/wiki/Fixed-point_iteration<br/>
 **Home work 2** : <br/>
   -Newton's method: https://en.wikipedia.org/wiki/Newton%27s_method<br/>
+**Home work 3** : <br/>
+  -Gaussian elimination method: https://en.wikipedia.org/wiki/Gaussian_elimination<br/>
 **Home work 7** : <br/>
   -Jacobi method: https://en.wikipedia.org/wiki/Jacobi_method<br/>
   
