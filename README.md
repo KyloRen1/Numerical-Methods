@@ -6,4 +6,5 @@
   -**Gaussian elimination method**: https://en.wikipedia.org/wiki/Gaussian_elimination<br/>
   -**Tridiagonal matrix algorithm**: https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm<br/>
   -**Jacobi method**: https://en.wikipedia.org/wiki/Jacobi_method<br/>
+  -**Lagrange Polynomial**: https://en.wikipedia.org/wiki/Lagrange_polynomial<br/>
   
