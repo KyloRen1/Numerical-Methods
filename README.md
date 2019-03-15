@@ -7,4 +7,6 @@
   -**Tridiagonal matrix algorithm**: https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm<br/>
   -**Jacobi method**: https://en.wikipedia.org/wiki/Jacobi_method<br/>
   -**Lagrange Polynomial**: https://en.wikipedia.org/wiki/Lagrange_polynomial<br/>
+  -**Chebyshev interpolation polynomial**: https://en.wikipedia.org/wiki/Chebyshev_polynomials<br/>
+  
   
