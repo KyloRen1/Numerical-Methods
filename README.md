@@ -1,6 +1,6 @@
 # Numerical-Methods
 
-  -**Bisection method**: https://en.wikipedia.org/wiki/Bisection_method<br/>
+  -[**Bisection method**](https://en.wikipedia.org/wiki/Bisection_method)<br/>
   -**Fixed-point iteration method**: https://en.wikipedia.org/wiki/Fixed-point_iteration<br/>
   -**Newton's method**: https://en.wikipedia.org/wiki/Newton%27s_method<br/>
   -**Gaussian elimination method**: https://en.wikipedia.org/wiki/Gaussian_elimination<br/>
